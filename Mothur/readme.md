@@ -249,10 +249,6 @@ mothur/
 │
 ├── scripts/
 │   └── mothur_analysis.sh
-│
-├── results/
-│
-└── figures/
 ```
 
 ## Research Context
