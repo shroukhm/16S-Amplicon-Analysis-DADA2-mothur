@@ -219,7 +219,6 @@ DADA2/
 ├── README.md
 ├── scripts/
 │   └── dada2_analysis.R
-├── results/
 └── figures/
 ```
 
